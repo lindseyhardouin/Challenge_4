@@ -7,7 +7,7 @@
 ### This project is created in Jupyter Lab and uses the following libraries: ```pandas, numpy```
 ---
 ## **Usage**
-### This program utilizes key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas. The Whale NAVs csvs is located in the folder: ([Resources](Resources))
+### This program utilizes key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas. The Whale NAVs csv is located in the folder: ([Resources](Resources))
 ---
 ## **Contributors**
 Lindsey Hardouin
